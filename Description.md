@@ -1,2 +1,2 @@
-# congenial-octo-couscous
-A simple Python-based tool for converting rational numbers between binary, decimal, and hexadecimal base formats. Designed for ease of use, this program guides users through base conversions with clear prompts, validates input for each source and target base, and asks if they wish to continue after each conversion. Perfect for anyone looking to understand or perform number conversions quickly and accurately.
+# PyNumConverter Description
+A simple Python-based tool for converting rational numbers between binary, decimal, and hexadecimal base formats. Designed for ease of use, this program guides users through base conversions with clear prompts, validates input for each source and target base, and asks if they wish to continue after each conversion. Perfect for anyone looking to understand or perform number conversions quickly and accurately.This code was developed as part of my assignment in the third semester at university.
